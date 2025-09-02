@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Welcome to my domain</h1>
-	<h1>Jimmy, si aprietas ese boton, todo el peso de la tia caera sobre ti</h1>
+	<h1>I AM THE STORM THAT APPROACHING</h1>
     <button onclick="showAlert()">A si? A ver...</button>
 
     <script>
@@ -24,7 +24,7 @@
 	</script>
 
 <h1>
-<a href="https://scopeprince1-pixel.github.io"> Ethan's Page </a>
+<a href="https://scopeprince.github.io"> Ethan's Page </a>
 </h1>
 
 <h1>
