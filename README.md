@@ -23,6 +23,8 @@
 	
 	</script>
 
+ <h1>
+<a href="C:\Users\jfernandez14\Desktop\Codes_\Javascript\Index.html"> Companions' page </a>  </h1>
 <h1>
 <a href="https://scopeprince.github.io"> Ethan's Page </a>
 </h1>
