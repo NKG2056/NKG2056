@@ -24,7 +24,7 @@
 	</script>
 
  <h1>
-<a href="file:///C:/Users/jfernandez14/Desktop/Codes_/Javascript/Index.html"> Companions' page </a> 
+<a href="https://nkg2056.github.io/Javascript/Index.html"> Companions' page </a> 
  </h1>
  
 <h1>
